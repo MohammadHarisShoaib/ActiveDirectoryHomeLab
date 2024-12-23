@@ -60,3 +60,17 @@ I installed and configured AD DS and created an Admin User.
     </td>
   </tr>
 </table>
+<p align="center">
+Creating an admin user.
+<p align="center">
+<img src="https://i.imgur.com/cFeXJIU.png" width="800px" alt="Internal NIC Configuration"/>
+<p align="center">
+Signing in as an admin user
+<p align="center">
+<img src="https://i.imgur.com/UFB0F3x.png" width="800px" alt="Internal NIC Configuration"/>
+
+<br />
+<br />
+
+<h2 align="center">Installing RAS / NAT</h2>
+<p align="center">
