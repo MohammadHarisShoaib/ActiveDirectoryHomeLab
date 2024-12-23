@@ -17,14 +17,14 @@ I found out which NIC is connected to the Internet and which one is connected in
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <p align="center">
-      <img src="https://i.imgur.com/zqEu8gl.png" width="400px" alt="Class A private address"/>
+      <img src="https://i.imgur.com/zqEu8gl.png" width="350px" alt="Class A private address"/>
       <br />
         <p align="center">
      Class A private address so this NIC is connected to the Internet.
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <p align="center">
-        <img src="https://i.imgur.com/0M7XG1H.png" width="400px" alt="APIPA address"/>
+        <img src="https://i.imgur.com/0M7XG1H.png" width="350px" alt="APIPA address"/>
       <br />
         <p align="center">
       APIPA address so this NIC is the internal NIC.
