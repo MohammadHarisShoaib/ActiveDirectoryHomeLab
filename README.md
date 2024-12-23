@@ -24,7 +24,7 @@ I found out which NIC is connected to the Internet and which one is connected in
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <p align="center">
-      <img src="https://i.imgur.com/0M7XG1H.png" width="400px" alt="APIPA address"/>
+      <img src="https://i.imgur.com/0M7XG1H.png" width="500px" alt="APIPA address"/>
       <br />
         <p align="center">
       APIPA address so this NIC is the internal NIC.
