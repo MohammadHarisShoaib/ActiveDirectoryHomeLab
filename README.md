@@ -1,5 +1,7 @@
 <h1 align="center">Active Directory Home Lab</h1>
 
+Credit: https://www.youtube.com/watch?v=MHsI8hJmggI
+
 <h2 align="center">Description</h2>
 <p align="center">
 Creating a simple network in VirtualBox following this diagram:
@@ -191,5 +193,3 @@ Active machine
 Signing in as one of the randomly generated user
 <p align="center">
 <img src="https://i.imgur.com/4vrNjtX.png" width="700px" alt="SignIn As Randomly Generated User"/>
-
-
