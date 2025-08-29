@@ -1,6 +1,6 @@
 <h1 align="center">Active Directory Home Lab</h1>
 
-Credit: https://www.youtube.com/watch?v=MHsI8hJmggI
+<h2 align="center">Credit: https://www.youtube.com/watch?v=MHsI8hJmggI</h2>
 
 <h2 align="center">Description</h2>
 <p align="center">
